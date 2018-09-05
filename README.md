@@ -6,4 +6,4 @@ In this jupyter notebook there are 3 dummy insturments:
 * lock-in amplifier
 * voltage supply
 
-There are simulation for various sweep measurements with these instruments in the notebook.
+There are simulation for various 1D and 2D sweep measurements with these instruments in the notebook.
